@@ -23,5 +23,5 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 | 13 | TBA | | | 
 
 This course incorporates some basic mathematical tools: 
-- Set Theory (Basics): It can be found in any introductory resources on [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), such as books, articles, or YouTube videos. For our practical purposes, we will use [a handout](https://github.com/haozeli-ling/Semantic-Analysis/blob/main/Formal_Preliminaries_Reference.pdf) by [Yimei Xiang](https://yimeixiang.wordpress.com/), an associate professor of Linguistics at Rutgers, as a reference.
-- Lambda Calculus and Type Theory: 
+- Set Theory (Basics): It can be found in any introductory resources on [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), such as books, articles, or YouTube videos. 
+- Lambda Calculus and Type: Lambda Calculus is a powerful formal language for defining functions. [The Wikipedia page](https://en.wikipedia.org/wiki/Lambda_calculus) offers a clear introduction to this formalism. If reading a technical article feels overwhelming, you might enjoy [this YouTube video](https://www.youtube.com/watch?v=ViPNHMSUcog&t=406s), which introduces Lambda Calculus in a more engaging and dynamic way. These resources will also highlight the strong connections between mathematics, formal semantics, logic, and programming.  
