@@ -8,7 +8,7 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 
 | Week | Plan | Readings | Notes |
 | ---- | ---- | -------- | ----- |
-| 1 | Introduction & Review of S&P | Partee () | N.A. |
+| 1 | Introduction & Review of S&P | Partee () | README |
 | 2 | Model-Theoretic Semantics  |  | 01, 02, 03, 04 |
 | 3 | NO CLASS |  | Happy Lunar New Year :) |
 | 4 | Commoun nouns and adjectives |  | TBA |
