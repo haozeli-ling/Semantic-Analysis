@@ -23,5 +23,5 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 | 13 | TBA | | | 
 
 This course incorporates some basic mathematical tools: 
-- Set Theory (Basics): it can be found in any introductory resources on [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), such as books, articles, or YouTube videos. For our practical purposes, we will use [a handout](https://github.com/haozeli-ling/Semantic-Analysis/blob/main/Formal_Preliminaries_Reference.pdf) by [Yimei Xiang](https://yimeixiang.wordpress.com/), an associate professor of Linguistics at Rutgers, as a reference.
-- 
+- Set Theory (Basics): It can be found in any introductory resources on [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), such as books, articles, or YouTube videos. For our practical purposes, we will use [a handout](https://github.com/haozeli-ling/Semantic-Analysis/blob/main/Formal_Preliminaries_Reference.pdf) by [Yimei Xiang](https://yimeixiang.wordpress.com/), an associate professor of Linguistics at Rutgers, as a reference.
+- Lambda Calculus and Type Theory: 
