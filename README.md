@@ -8,18 +8,18 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 
 | Week | Plan | Readings | Notes |
 | ---- | ---- | -------- | ----- |
-| 1 | Introduction & Review of S&P | Partee () | Here |
-| 2 | Model-Theoretic Semantics  |  | Here |
-| 3 | Lambda Calculus |  | Here |
-| 4 | Commoun nouns and adjectives |  | Here |
-| 5 | Definite descriptions | | Here |
-| 6 | Pronoun & Trace |  | Here |
-| 7 | Quantifiers |  | Here |
-| 8 | Scope | | Here |
-| 9 | Events and adverbs | | Here |
-| 10 | Tense |  | Here |
-| 11 | Aspect | | Here | 
-| 12 | Intensions | | Here |
+| 1 | Introduction & Review of S&P | Partee () | N.A. |
+| 2 | Model-Theoretic Semantics  |  | 01, 02, 03, 04 |
+| 3 | NO CLASS |  | Happy Lunar New Year :) |
+| 4 | Commoun nouns and adjectives |  | TBA |
+| 5 | Definite descriptions | | TBA |
+| 6 | Pronoun & Trace |  | TBA |
+| 7 | Quantifiers |  | TBA |
+| 8 | Scope | | TBA |
+| 9 | Events and adverbs | | TBA |
+| 10 | Tense |  | TBA |
+| 11 | Aspect | | TBA | 
+| 12 | Intensions | | TBA |
 | 13 | TBA | | | 
 
 This course includes some basic mathematical tools, which have been compiled into a [one-page handout](https://github.com/haozeli-ling/Semantic-Analysis/blob/main/notes_formal_tools.pdf) for your reference. Additionally, you can further familiarize yourself with these tools using the following resources:
