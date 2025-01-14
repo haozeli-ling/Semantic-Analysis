@@ -22,9 +22,9 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 | 12 | Intensions | HK:12 | TBA |
 | 13 | TBA | | | 
 
-CC: Coppock & Champollion. 2024. Invitation to Formal Semantics. 
-Kearn: Kearn. 2011. Semantics.
-HK: Heim & Kratzer. 1998. Semantics in Generative Grammar. 
+- CC: Coppock & Champollion. 2024. Invitation to Formal Semantics. 
+- Kearn: Kearn. 2011. Semantics.
+- HK: Heim & Kratzer. 1998. Semantics in Generative Grammar. 
 
 This course includes some basic mathematical tools, which have been compiled into a [one-page handout](https://github.com/haozeli-ling/Semantic-Analysis/blob/main/notes_formal_tools.pdf) for your reference. Additionally, you can further familiarize yourself with these tools using the following resources:
 - **Sets, relations, and functions**: It can be found in any introductory resources on [Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), such as books, articles, or YouTube videos. Personally, I find [this YouTube channel](https://www.youtube.com/@Trevtutor/featured) fascinating—--it features clips that introduce formal concepts and even touch on topics relevant to this course. 
