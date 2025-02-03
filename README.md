@@ -12,7 +12,7 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 | 2 | Model-Theoretic Semantics  | Kearns:ch1 | 01, 02, 03, 04 |
 | 3 | NO CLASS |  | Happy Lunar New Year 😄 |
 | 4 | Verbs, Common nouns, Adjectives | CC:6.1--6.2 | 05, 06, 07, 08 |
-| 5 | Definite descriptions | CC:ch8 | TBA |
+| 5 | Definite descriptions | CC:ch8 | 09 |
 | 6 | Pronoun & Trace | CC:7.1--7.3, 7.5 | TBA |
 | 7 | Quantifiers | CC:6.3--6.4 | TBA |
 | 8 | Scope | CC:7.4 | TBA |
