@@ -8,14 +8,13 @@ Below is an up-to-date overview of our schedule, with links to notes from class 
 
 | Week | Plan | Readings | Notes |
 | ---- | ---- | -------- | ----- |
-| 1 | Introduction & Review of S&P |  | README |
+| 1 | Introduction |  | README |
 | 2 | Model-Theoretic Semantics  | Kearns:ch1 | 01, 02, 03, 04 |
-| 3 | NO CLASS |  | Happy Lunar New Year 😄 |
-| 4 | Verbs, Common nouns, Adjectives | CC:6.1--6.2 | 05, 06, 07, 08 |
-| 5 | Definite descriptions | CC:ch8 | 09 |
-| 6 | Pronoun & Trace | CC:7.1--7.3, 7.5 | TBA |
-| 7 | Quantifiers | CC:6.3--6.4 | TBA |
-| 8 | Scope | CC:7.4 | TBA |
+| 3 | Verbs, Common nouns, Adjectives | CC:6.1--6.2 | 05, 06, 07, 08 |
+| 4 | Definite descriptions | CC:ch8 | 09 |
+| 5 | Pronoun & Trace | CC:7.1--7.3, 7.5 | TBA |
+| 6 | Quantifiers | CC:6.3--6.4 | TBA |
+| 7 | Scope | CC:7.4 | TBA |
 | 9 | Events and adverbs | CC:11 | TBA |
 | 10 | Tense | CC:12 | TBA |
 | 11 | Aspect | CC:12 | TBA | 
