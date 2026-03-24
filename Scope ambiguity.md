@@ -1,5 +1,6 @@
 # 15. Scope ambiguity 
 
+[Fact: Scope ambiguity of a sentence with multiple quantifiers](https://github.com/haozeli-ling/Semantic-Analysis/blob/main/Quantifier_Raising.pdf)
 
 In semantics, scope ambiguity is resolved by applying Quantifier Raising in different ways. 
 
