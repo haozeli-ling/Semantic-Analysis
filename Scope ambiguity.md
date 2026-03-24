@@ -9,8 +9,9 @@ In semantics, scope ambiguity is resolved by applying Quantifier Raising in diff
 1. A student watched every movie.
 
 ```
-F(every movie [1 a student watched pro_1]) = F('every movie')(F('1 a student watched pro_1'))
-                                           = F('every movie')(lambda x : F('a student')(lambda y : watched_f(y, x)))
-                                           = F('every movie')( lambda x : |{y : student_f(y) = 1} & {y: watched_f(y,x) = 1}| != 0)
-                                           = {x : movie_f(x) = 1} <= {x : [|{y : student_f(y) = 1} & {y: watched_f(y,x) = 1}| != 0] = 1}
+F(every movie [1 a student watched pro_1])
+= F('every movie')(F('1 a student watched pro_1'))
+= F('every movie')(lambda x : F('a student')(lambda y : watched_f(y, x)))
+= F('every movie')( lambda x : |{y : student_f(y) = 1} & {y: watched_f(y,x) = 1}| != 0)
+= {x : movie_f(x) = 1} <= {x : [|{y : student_f(y) = 1} & {y: watched_f(y,x) = 1}| != 0] = 1}
 ```
