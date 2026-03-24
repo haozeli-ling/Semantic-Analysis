@@ -34,3 +34,6 @@ F(a student [2 every movie [1 pro_2 watched pro_1]])
 = |{y : student_f(y) = 1} & {y : [{x : movie_f(x) = 1} <= {x: watched_f(y,x) = 1}] = 1}| != 0
 ```
 
+> Exercise: Please compute the scope intepretations for the following sentences: <br>
+> (a) No student watched every movie. 
+> (b) Three students watched most movies.
