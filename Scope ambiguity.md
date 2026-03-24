@@ -1,4 +1,4 @@
-# Scope ambiguity 
+# 15. Scope ambiguity 
 
 
 In semantics, scope ambiguity is resolved by applying Quantifier Raising in different ways. 
@@ -10,7 +10,7 @@ In semantics, scope ambiguity is resolved by applying Quantifier Raising in diff
 
 > [!IMPORTANT]
 > Derivation of the inverse scope reading: <br>
-> 'Raising' the object quantifier to the edge of the whole sentence. 
+> 'Raise' the object quantifier to the edge of the whole sentence. 
 
 ```
 F(every movie [1 a student watched pro_1])
@@ -19,3 +19,18 @@ F(every movie [1 a student watched pro_1])
 = F('every movie')( lambda x : |{y : student_f(y) = 1} & {y: watched_f(y,x) = 1}| != 0)
 = {x : movie_f(x) = 1} <= {x : [|{y : student_f(y) = 1} & {y: watched_f(y,x) = 1}| != 0] = 1}
 ```
+
+> [!IMPORTANT]
+> Derivation of the surface scope reading: <br>
+> 'Raise' the object quantifier to the edge of the whole sentence and <br>
+> Continue to raise the subject quantifier outside the scope of the object quantifier. 
+
+```
+F(a student [2 every movie [1 pro_2 watched pro_1]])
+= F('a student')(2 every movie [1 pro_2 watched pro_1])
+= F('a student')(2 F('every movie')([1 pro_2 watched pro_1]))
+= F('a student')(lambda y : F('every movie')(lambda x : watched_f(y,x)))
+= F('a student')(lambda y : {x : movie_f(x) = 1} <= {x: watched_f(y,x) = 1})
+= |{y : student_f(y) = 1} & {y : [{x : movie_f(x) = 1} <= {x: watched_f(y,x) = 1}] = 1}| != 0
+```
+
