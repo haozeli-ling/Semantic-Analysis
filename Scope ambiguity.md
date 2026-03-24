@@ -8,6 +8,10 @@ In semantics, scope ambiguity is resolved by applying Quantifier Raising in diff
 
 1. A student watched every movie.
 
+> [!IMPORTANT]
+> Derivation of the inverse scope reading: <br>
+> 'Raising' the object quantifier to the edge of the whole sentence. 
+
 ```
 F(every movie [1 a student watched pro_1])
 = F('every movie')(F('1 a student watched pro_1'))
